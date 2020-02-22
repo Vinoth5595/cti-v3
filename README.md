@@ -1,5 +1,9 @@
 # CtiV3
 
+CTI v3.0 - Login page (Initial Draft)
+
+![Image of Login](https://github.com/Vinoth5595/cti-v3/screenshots/login.PNG)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
 
 ## Development server
